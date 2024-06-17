@@ -19,3 +19,9 @@ You can see a live demo of the slider [here](your-demo-link).
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+## Contributing
+Feel free to submit issues, fork the repository and send pull requests!
+
+License
+This project is licensed under the MIT License.
